@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BehnazShojaei
+- 👋 Hi, I’m @BehnazShojaei. I used to work as biomedical field service engineer and a lecturer. 
 - 👀 I’m interested in coding, teaching, DIY projects, painting, and a perfect pot of brewed tea.
 - 🌱 I’m currently learning web development skills.
 - 💞️ I’m looking to collaborate on web design, function development, and test automation.
