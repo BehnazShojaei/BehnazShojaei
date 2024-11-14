@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @BehnazShojaei. I used to work as biomedical field service engineer and a lecturer. 
-- 👀 I’m interested in coding, teaching, DIY projects, painting, and a perfect pot of brewed tea.
-- 🌱 I’m currently learning web development skills.
-- 💞️ I’m looking to collaborate on web design, function development, test automation, API design with Django.
-- 📫 You can reach me at behnaz.shojaei88@gmail.com
-- ⚡ Fun fact: I won a silver medal at a state chess competition when I was 12 years old! I studied French for 2 years! I can bake birthday cakes like an aspiring pro! Nowadays, I only read kids' books and non-fiction on philosophy, self-development, parenting, and finance!
-
-<!---
-BehnazShojaei/BehnazShojaei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @BehnazShojaei. I have a background as a biomedical field service engineer and lecturer.
+- 👀 I’m interested in coding, big data, signal processing, data-intensive environments, DIY projects, painting, and brewing the perfect pot of tea.
+- 🌱 I’m building my skills in data processing and web development with Python, Django, REST APIs, and JS/React, aiming to grow as a software developer.
+- 💞️ Open to collaborating on data pipelines, distributed data processing, API design, and scientific computing projects.
+- 📫 Reach me at behnaz.shojaei88@gmail.com
+- ⚡ Fun fact: I won a silver medal at a state chess competition when I was 12! I studied French for 2 years, and I can bake birthday cakes like a pro! I enjoy reading kids' books and non-fiction on philosophy, self-development, and finance.
